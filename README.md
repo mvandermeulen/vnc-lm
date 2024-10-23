@@ -1,6 +1,6 @@
 # vnc-lm
 
-<sub>10-23-2024: Cleaned up file architecture.</sub>
+<sub>10-23-2024: Cleaned up file architecture.</sub> <br>
 <sub>10-19-2024: Added support for HuggingFace links.</sub>
 
 ### Introduction
