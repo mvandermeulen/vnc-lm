@@ -1,8 +1,5 @@
 # vnc-lm
 
-<sub>10-23-2024: Cleaned up file architecture.</sub> <br>
-<sub>10-19-2024: Added support for HuggingFace links.</sub>
-
 ### Introduction
 [**vnc-lm**](https://github.com/jake83741/vnc-lm) is a Discord bot that brings language models to your server - pull models, configure settings, chat, and fork conversations. Built with [**ollama**](https://github.com/ollama/ollama).
 
