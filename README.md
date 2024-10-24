@@ -24,7 +24,7 @@ https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/blob/main/Llama-3.2-
 > 🚧 Model downloading and removal is turned off by default and can be enabled by configuring the `.env`. 
  
 #### QoL Improvements
-Streaming message generation with messages longer than 1500 characters split into pages. Attachments like text-based files, web links, and screenshots can be added into the context window. Can be spun-up quickly with Docker.
+Streaming message generation with messages longer than 1500 characters split into pages. Attachments like text-based files, web links, and screenshots can be added into the context window. Deployable via a Docker container.
 
 Switch between conversations by clicking `rejoin conversation` in the context menu. Conversations can be forked from any point and with different models. All messages are cached and organized into conversations. `Entrypoint.sh` helps the message cache persist across Docker containers. 
 
